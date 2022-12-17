@@ -1,12 +1,9 @@
-# NOME
-## Benvenuti nella mia repo personale
-
-Pubblicherò tutto il mio materiale: appunti, programmi, esercizi etc.
-
-Ogni file sarà commentabile in caso di dubbi e/o correzioni.
+#TEMI D'ESAME ANNI PRECEDENTI
+##Qui trovate una raccolta di simulazioni e temi d'esame vecchi.
 
 ## INDICE
-- [INSERIRE NOME CARTELLA](INSERIRE LINK)
-- [INSERIRE NOME CARTELLA](INSERIRE LINK)
-- [INSERIRE NOME CARTELLA](INSERIRE LINK)
+- [MD](INSERIRE LINK)
+- [CMRO](INSERIRE LINK)
+- [PROG1](INSERIRE LINK)
+- [LOG](INSERIRE LINK)
 ...
