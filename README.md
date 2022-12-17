@@ -1,5 +1,5 @@
-#TEMI D'ESAME ANNI PRECEDENTI
-##Qui trovate una raccolta di simulazioni e temi d'esame vecchi.
+# TEMI D'ESAME ANNI PRECEDENTI
+## Qui trovate una raccolta di simulazioni e temi d'esame vecchi e alcuni link a simulazioni su moodle
 
 ## INDICE
 - [MD](https://github.com/Corso-A-2022-2023/TEMI-ESAME/tree/main/MD)
