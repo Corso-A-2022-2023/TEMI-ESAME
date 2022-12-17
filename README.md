@@ -13,3 +13,4 @@
 - [LOGICA](https://github.com/Corso-A-2022-2023/TEMI-ESAME/tree/main/LOGICA)
   - [regole d'esame](https://informatica.i-learn.unito.it/mod/page/view.php?id=202388)
   - [argomenti d'esame](https://informatica.i-learn.unito.it/mod/page/view.php?id=202394)
+  - trovate le soluzioni degli esami qui presenti sul moodle di logica a.a. 21-22
