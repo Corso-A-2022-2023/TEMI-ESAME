@@ -3,6 +3,7 @@
 
 ## INDICE
 - [MD](https://github.com/Corso-A-2022-2023/TEMI-ESAME/tree/main/MD)
+  - [simulazione quiz esame](https://informatica.i-learn.unito.it/mod/quiz/view.php?id=185226)
 - [CMRO](https://github.com/Corso-A-2022-2023/TEMI-ESAME/tree/main/CMRO)
   - [simulazione questionario d'esame](https://informatica.i-learn.unito.it/mod/quiz/view.php?id=200734)
 - [PROG1](https://github.com/Corso-A-2022-2023/TEMI-ESAME/tree/main/PROG1)
